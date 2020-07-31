@@ -147,6 +147,7 @@ Let's call 'r' the count of subdivisions we want to split an integer increment o
 m = Δy/Δx = increment of y due to the increment of x1
 ```
 
+
 Every time we move `1/r` in the X axis, then the Y axis should move `m.1/r`
 
 But, as stated previously, due to the resolution of the screen, there are 2 choices:
